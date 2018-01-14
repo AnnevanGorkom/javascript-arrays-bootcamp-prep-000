@@ -6,10 +6,10 @@ var chocolateBars = [
   "skittles"
 ]
 
-function addElementToBeginningOfArray("bar", 1) {
-  var chocolateBars = bar.unshift("mars")
-  return chocolateBars
-}
+//function addElementToBeginningOfArray("bar", 1) {
+//  var chocolateBars = bar.unshift("mars")
+//  return chocolateBars
+//}
 
 //function destructivelyAddElementToBeginningOfArray(chocolateBars, bar) {
 
