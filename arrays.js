@@ -11,6 +11,6 @@ function addElementToBeginningOfArray(bar, 1) {
   return newBars;
 }
 
-//function destructivelyAddElementToBeginningOfArray(chocolateBars, bar) {
-
-//}
+function destructivelyAddElementToBeginningOfArray(array, 1) {
+  return array.unshift("mars");
+}
